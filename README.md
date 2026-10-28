@@ -82,7 +82,7 @@ I'm curious about what makes software reliable, from writing test cases to autom
 ## 📈 On GitHub
  
 <div align="center">
-<img width="560" src="https://github-readme-stats.vercel.app/api?username=Scalivee&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
+<img width="560" src="https://github-readme-stats.vercel.app/api?username=Scalivee&show_icons=true&theme=dracula&hide_border=true&count_private=true&custom_title=Scalivee%27s%20GitHub%20Stats" alt="GitHub stats" />
 <img width="560" src="https://github-readme-streak-stats.herokuapp.com/?user=Scalivee&theme=dracula&hide_border=true" alt="GitHub streak" />
 </div>
 ---
