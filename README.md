@@ -80,16 +80,17 @@ I'm curious about what makes software reliable, from writing test cases to autom
 ---
 
 ## 📈 On GitHub
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Scalivee&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Scalivee&theme=dracula&hide_border=true" alt="GitHub streak" />
-
+ 
+<div align="center">
+<img width="560" src="https://github-readme-stats.vercel.app/api?username=Scalivee&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
+<img width="560" src="https://github-readme-streak-stats.herokuapp.com/?user=Scalivee&theme=dracula&hide_border=true" alt="GitHub streak" />
+</div>
 ---
-
+ 
 ## 💬 Let's Connect
-
+ 
 I'm always happy to chat, swap tips, or learn together. Feel free to reach out!
-
-[LinkedIn](https://linkedin.com/in/USERNAME-LINKEDIN) · [Instagram](https://instagram.com/cahyo_whn03) · [Email](mailto:cahyowhn01@gmail.com)
-
+ 
+[LinkedIn](https://linkedin.com/in/USERNAME-LINKEDIN) · [Instagram](https://instagram.com/USERNAME-INSTAGRAM) · [Email](mailto:EMAIL-KAMU@gmail.com)
+ 
 *Learning a little every day, one commit at a time.* 🚀
